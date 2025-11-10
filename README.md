@@ -25,19 +25,6 @@ This repository is my implementation and tracking of the **LeetCode Top Intervie
 | 15   | Review & Mock Interviews | Revisit hard topics, time-boxed practice, give mock interviews |
 
 > Note: Adjust the timeline based on your pace, availability, and comfort level.
-
----
-
-## ✅ Progress Tracker  
-Use this section to mark solved problems, notes, and reflections.
-
-- [ ] Problem 1: _…_ – [Solution](./solutions/problem1.java) – Notes: _…_  
-- [ ] Problem 2: _…_ – [Solution](./solutions/problem2.py) – Notes: _…_  
-- …  
-- [ ] Problem 150: _…_ – [Solution](./solutions/problem150.cpp) – Notes: _…_  
-
-Feel free to add your own columns: e.g., difficulty rating, time taken, improvement area.
-
 ---
 
 ## 🧠 My Approach & Best Practices  
