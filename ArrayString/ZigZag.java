@@ -1,4 +1,3 @@
-package ArrayString;
 import java.util.ArrayList;
 import java.util.List;
 

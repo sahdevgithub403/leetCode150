@@ -1,4 +1,3 @@
-package ArrayString;
 import java.util.LinkedHashSet;
 
 public class RemoveDuplicateSortedArray {
