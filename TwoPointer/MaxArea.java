@@ -1,4 +1,3 @@
-
 public class MaxArea {
 
     public int maxArea(int[] height) {
